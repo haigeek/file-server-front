@@ -1,6 +1,6 @@
 # mongo-file-server
 
-An file manage system base mongo 
+A file manage system base mongo 
 
 Power by VUE and elementUI
 
